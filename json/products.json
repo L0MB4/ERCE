@@ -1,0 +1,222 @@
+[
+  {
+    "nome": "Cuffie Bluetooth Pro",
+    "descrizione": "Cuffie wireless con cancellazione attiva del rumore e 30 ore di autonomia.",
+    "prezzo": 89.99,
+    "valutazione": 4.7,
+    "costo": 42.0,
+    "sconto": true,
+    "bonus": false,
+    "marca": "SoundCore",
+    "immagine": "https://images.unsplash.com/photo-1529653762956-b0a27278529c?q=80&w=4088&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "nome": "Maglietta in cotone biologico",
+    "descrizione": "Maglietta unisex realizzata al 100% in cotone organico.",
+    "prezzo": 19.99,
+    "valutazione": 4.3,
+    "costo": 8.5,
+    "sconto": false,
+    "bonus": true,
+    "marca": "EcoWear",
+    "immagine": "https://images.unsplash.com/photo-1529653762956-b0a27278529c?q=80&w=4088&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "nome": "Zaino impermeabile 20L",
+    "descrizione": "Zaino resistente all'acqua per escursioni e viaggi.",
+    "prezzo": 39.9,
+    "valutazione": 4.5,
+    "costo": 17.0,
+    "sconto": true,
+    "bonus": true,
+    "marca": "TrekMate",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Zaino+20L"
+  },
+  {
+    "nome": "Mouse gaming RGB",
+    "descrizione": "Mouse con 6 tasti programmabili e luci LED.",
+    "prezzo": 29.95,
+    "valutazione": 4.2,
+    "costo": 12.3,
+    "sconto": false,
+    "bonus": false,
+    "marca": "RedDragon",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Mouse+RGB"
+  },
+  {
+    "nome": "Libro 'Il potere del tempo'",
+    "descrizione": "Manuale su gestione del tempo e produttività.",
+    "prezzo": 14.5,
+    "valutazione": 4.8,
+    "costo": 5.2,
+    "sconto": true,
+    "bonus": false,
+    "marca": "Edizioni Future",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Libro+Tempo"
+  },
+  {
+    "nome": "Borraccia termica 500ml",
+    "descrizione": "Mantiene le bevande fredde per 24h o calde per 12h.",
+    "prezzo": 21.99,
+    "valutazione": 4.6,
+    "costo": 9.0,
+    "sconto": false,
+    "bonus": true,
+    "marca": "ThermoGo",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Borraccia+Termica"
+  },
+  {
+    "nome": "Sneakers casual uomo",
+    "descrizione": "Scarpe comode per uso quotidiano, design moderno.",
+    "prezzo": 54.9,
+    "valutazione": 4.1,
+    "costo": 25.0,
+    "sconto": true,
+    "bonus": false,
+    "marca": "UrbanStep",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Sneakers+Uomo"
+  },
+  {
+    "nome": "Lampada LED da scrivania",
+    "descrizione": "Luce regolabile con porta USB per ricarica.",
+    "prezzo": 32.0,
+    "valutazione": 4.4,
+    "costo": 14.6,
+    "sconto": true,
+    "bonus": true,
+    "marca": "BrightDesk",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Lampada+LED"
+  },
+  {
+    "nome": "Tappetino yoga antiscivolo",
+    "descrizione": "Tappetino spesso 6mm, ideale per stretching e yoga.",
+    "prezzo": 25.99,
+    "valutazione": 4.5,
+    "costo": 11.8,
+    "sconto": false,
+    "bonus": true,
+    "marca": "ZenFlow",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Tappetino+Yoga"
+  },
+  {
+    "nome": "Orologio fitness smartband",
+    "descrizione": "Monitoraggio del sonno, passi, battito e notifiche.",
+    "prezzo": 44.99,
+    "valutazione": 4.3,
+    "costo": 19.9,
+    "sconto": true,
+    "bonus": false,
+    "marca": "FitSense",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Smartband"
+  },
+  {
+    "nome": "Portafoglio in pelle",
+    "descrizione": "Design sottile, con RFID-block per carte.",
+    "prezzo": 27.5,
+    "valutazione": 4.6,
+    "costo": 12.0,
+    "sconto": false,
+    "bonus": true,
+    "marca": "LeatherWorks",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Portafoglio"
+  },
+  {
+    "nome": "Set penne calligrafiche",
+    "descrizione": "6 penne a inchiostro nero con punte differenti.",
+    "prezzo": 18.75,
+    "valutazione": 4.4,
+    "costo": 6.3,
+    "sconto": true,
+    "bonus": false,
+    "marca": "InkFlow",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Penne+Calligrafiche"
+  },
+  {
+    "nome": "Frullatore portatile USB",
+    "descrizione": "Perfetto per smoothie, ricaricabile via USB.",
+    "prezzo": 34.9,
+    "valutazione": 4.1,
+    "costo": 15.0,
+    "sconto": false,
+    "bonus": false,
+    "marca": "BlendOn",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Frullatore+USB"
+  },
+  {
+    "nome": "T-shirt gaming edition",
+    "descrizione": "Maglietta con stampa gamer glow-in-the-dark.",
+    "prezzo": 22.99,
+    "valutazione": 4.7,
+    "costo": 10.0,
+    "sconto": true,
+    "bonus": true,
+    "marca": "PixelWear",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Tshirt+Gaming"
+  },
+  {
+    "nome": "Cavo USB-C intrecciato 2m",
+    "descrizione": "Cavo resistente per ricarica rapida e trasferimento dati.",
+    "prezzo": 12.0,
+    "valutazione": 4.8,
+    "costo": 3.5,
+    "sconto": false,
+    "bonus": true,
+    "marca": "PowerLink",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Cavo+USB-C"
+  },
+  {
+    "nome": "Supporto laptop pieghevole",
+    "descrizione": "Regolabile, in alluminio, con borsa da trasporto.",
+    "prezzo": 28.6,
+    "valutazione": 4.5,
+    "costo": 11.7,
+    "sconto": true,
+    "bonus": false,
+    "marca": "LiftPro",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Supporto+Laptop"
+  },
+  {
+    "nome": "Planner 2025",
+    "descrizione": "Agenda settimanale con copertina rigida e segnalibro.",
+    "prezzo": 16.9,
+    "valutazione": 4.2,
+    "costo": 6.4,
+    "sconto": false,
+    "bonus": false,
+    "marca": "TimePlan",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Planner+2025"
+  },
+  {
+    "nome": "Set 3 candele profumate",
+    "descrizione": "Cera di soia, fragranze rilassanti per la casa.",
+    "prezzo": 24.0,
+    "valutazione": 4.6,
+    "costo": 9.8,
+    "sconto": true,
+    "bonus": true,
+    "marca": "AromaHome",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Candele+Profumate"
+  },
+  {
+    "nome": "Cover silicone iPhone 14",
+    "descrizione": "Protezione antiurto con finitura soft touch.",
+    "prezzo": 15.9,
+    "valutazione": 4.3,
+    "costo": 4.0,
+    "sconto": false,
+    "bonus": true,
+    "marca": "CaseFlex",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Cover+iPhone+14"
+  },
+  {
+    "nome": "Cornice digitale WiFi 10”",
+    "descrizione": "Mostra foto direttamente da app, memoria inclusa.",
+    "prezzo": 79.9,
+    "valutazione": 4.7,
+    "costo": 36.0,
+    "sconto": true,
+    "bonus": true,
+    "marca": "PhotoStream",
+    "immagine": "https://via.placeholder.com/200x200.png?text=Cornice+Digitale"
+  }
+]

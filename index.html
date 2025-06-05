@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!--REMIX ICON - REFER-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/remixicon/4.6.0/remixicon.css"
+      integrity="sha512-kJlvECunwXftkPwyvHbclArO8wszgBGisiLeuDFwNM8ws+wKIw0sv1os3ClWZOcrEB2eRXULYUsm8OVRGJKwGA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+
+    <!--SCRIPT-->
+    <script src="js/script.js" defer></script>
+
+    <!--FOGLIO DI STILE-->
+    <link rel="stylesheet" href="css/style_index.css" />
+
+    <title>ERCE</title>
+  </head>
+  <body>
+    <!--NAVBAR SUPERIORE/INFERIORE-->
+    <header id="header">
+      <!--NAVBAR SUPERIORE-->
+      <nav class="navbar" id="navbar-top">
+        <div id="navbar-content-left">
+          <i class="ri-macbook-line"></i>
+          Non-Stable version / alpha 0.0.0
+        </div>
+
+        <div id="navbar-content-right">
+          <a href="#" target="_self" class="active">Home</a>
+          <a href="#" target="_self">About Erce</a>
+          <a href="#" target="_self">Daily Promo</a>
+        </div>
+      </nav>
+
+      <nav class="navbar" id="navbar-bottom">
+        <div id="navbar-bottom-logo">ERCE</div>
+        <div id="navbar-bottom-search">
+          <div id="dropdown">
+            All category
+            <span id="arrow"><i class="ri-arrow-down-s-fill"></i></span>
+            <div id="drop-visible"></div>
+          </div>
+
+          <span id="search-logo">
+            <i class="ri-search-line"></i>
+          </span>
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Search product here..."
+          />
+        </div>
+
+        <div id="navbar-bottom-right">
+          <span id="shop-cart">
+            <div id="shop-notify">0</div>
+            <i class="ri-shopping-cart-2-line"></i>
+          </span>
+          <hr />
+          <div id="account-container">
+            <span id="account-circle"><i class="ri-user-fill"></i> </span>
+            <span id="account-info">
+              <span id="account-info-greeting">Hi, log in</span>
+              <span id="account-real-name"></span>
+            </span>
+            <span id="account-arrow"
+              ><i class="ri-arrow-down-s-line"></i>
+            </span>
+            <div id="login-menu">
+              <div id="general-info-visible">
+                <span id="name">Void</span>
+                <span id="mail">Void</span>
+              </div>
+              <ul>
+                <li>
+                  <span id="icon"><i class="ri-user-line"></i></span>Profile
+                </li>
+                <li>
+                  <span id="icon"><i class="ri-id-card-line"></i></span
+                  >Subscription
+                </li>
+                <li>
+                  <span id="icon"><i class="ri-settings-5-line"></i></span
+                  >Settings
+                </li>
+                <hr />
+                <li>
+                  <span id="icon"><i class="ri-information-line"></i></span>Help
+                  Center
+                </li>
+                <li id="ll-inside">
+                  <span id="icon"><i class="ri-login-box-line"></i></span>
+                  Login in
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <!--COPERTINA-->
+    <div id="sfondo"></div>
+
+    <!--CATEGORIE-->
+    <div id="categorie"></div>
+
+    <!--PRODOTTI-->
+    <div id="prodotti">
+      <div id="sale">
+        <span id="icon">
+          <i class="ri-flashlight-line"></i>
+        </span>
+        Flash Sale
+        <div id="current-data"></div>
+      </div>
+
+      <div id="prodotti-scontati"></div>
+    </div>
+
+    <!--PRODOTTI NORMALI-->
+    <div id="prodotti-classici"></div>
+
+    <footer>
+      <div id="sx-container">
+        <span id="logo"> ERCE </span>
+        <span id="description">Creating your happiness.</span>
+        <span id="tools">
+          <i class="ri-html5-fill"></i>
+          <i class="ri-css3-fill"></i>
+          <i class="ri-javascript-fill"></i>
+          <i class="ri-firebase-fill"></i>
+          <i class="ri-nodejs-line"></i>
+          <i class="ri-remixicon-fill"></i>
+          <i class="ri-github-fill"></i>
+        </span>
+      </div>
+
+      <div id="dx-container"></div>
+    </footer>
+    <div id="back">
+      Copyright &copy; 2025. ERCE srl, a division of MAGGWEB sas
+    </div>
+  </body>
+</html>

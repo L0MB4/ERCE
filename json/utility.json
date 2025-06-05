@@ -1,0 +1,28 @@
+{
+  "categorie": [
+    {
+      "nome": "Tech",
+      "icon": "<i class='ri-computer-line'></i>"
+    },
+    {
+      "nome": "Casa",
+      "icon": "<i class='ri-lightbulb-line'></i>"
+    },
+    {
+      "nome": "Scuola",
+      "icon": "<i class='ri-pencil-ruler-2-line'></i>"
+    },
+    {
+      "nome": "Lavoro",
+      "icon": "<i class='ri-briefcase-5-line'></i>"
+    },
+    {
+      "nome": "Giardino",
+      "icon": "<i class='ri-leaf-line'></i>"
+    },
+    {
+      "nome": "Gadget",
+      "icon": "<i class='ri-vip-crown-line'></i>"
+    }
+  ]
+}

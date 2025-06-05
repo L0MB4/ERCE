@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../Downloads/Flat Assets/Flat Assets"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "ecommerce-migliorato"
+  }
+}
